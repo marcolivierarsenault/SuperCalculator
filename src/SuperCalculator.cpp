@@ -9,10 +9,13 @@
  */
 
 #include <iostream>
+#include "ProcessCalculator.h"
 
 using namespace std;
 
 int main(void) {
+	ProcessCalculator pp(564);
 	cout << "Hello World" << endl; /* prints Hello World */
+	pp.print();
 	return 0;
 }

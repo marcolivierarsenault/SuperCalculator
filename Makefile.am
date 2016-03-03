@@ -1,2 +1,2 @@
 bin_PROGRAMS=supercalculator
-supercalculator_SOURCES=src/SuperCalculator.cpp
+supercalculator_SOURCES=src/SuperCalculator.cpp src/ProcessCalculator.cpp
