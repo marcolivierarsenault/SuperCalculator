@@ -1,3 +1,3 @@
-bin_PROGRAMS=a.out
-a_out_SOURCES=SuperCalculator.cpp
+bin_PROGRAMS=supercalculator.out
+supercalculator_out_SOURCES=SuperCalculator.cpp
 

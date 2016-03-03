@@ -68,7 +68,7 @@ Makefile
 /stamp-h1
 config.*
 .autotools
-
+*/.deps/
 ### C++ ###
 # Compiled Object files
 *.slo
