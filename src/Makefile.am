@@ -1,3 +1,0 @@
-bin_PROGRAMS=supercalculator.out
-supercalculator_out_SOURCES=SuperCalculator.cpp
-

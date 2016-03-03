@@ -1,1 +1,2 @@
-SUBDIRS=src
+bin_PROGRAMS=supercalculator
+supercalculator_SOURCES=src/SuperCalculator.cpp
